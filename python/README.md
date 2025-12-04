@@ -29,6 +29,7 @@ This is a high-level overview of the concepts I will cover during this timeline:
 | Day | Date | Topic(s) | Project | Link to Code/Notes |
 | :---: | :--- | :--- | :--- | :---: |
 | **01** | 03/12/2025 | Printing, Comments, Variables | Band Name Generator | [Day 1](./Day_01) |
+| **02** | 04/12/2025 | Data Types, Numbers, Operations, Type Conversion, f-Strings | Tip Calculator | [Day_2](./Day_02)
 
 ---
 
