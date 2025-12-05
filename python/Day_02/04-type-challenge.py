@@ -1,3 +1,3 @@
-# This program will throw an error for not casting the correct data type
-print("The number of letters in your name is: " + len(input("Enter your name: ")))
+# This program fixes the error by casting length into the correct data type
+print("The number of letters in your name is: " + str(len(input("Enter your name: "))))
 
